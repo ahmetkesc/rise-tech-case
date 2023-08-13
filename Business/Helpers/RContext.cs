@@ -67,6 +67,6 @@ public class RContext : DbContext
         });
         #endregion
     }
-    public required DbSet<Contact> Contact { get; set; }
-    public required DbSet<Report> Report { get; set; }
+    public  DbSet<Contact> Contact { get; set; }
+    public  DbSet<Report> Report { get; set; }
 }
