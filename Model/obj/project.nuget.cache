@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J5/EboTYCpTWPsHkVBNiQCj0rYjgG3HxVdj0qjlw7l8co6GAbCLfMqnop2CnGSg1A48kBzhtC/yXiTeVlu1kXQ==",
+  "dgSpecHash": "cZLSmtlsjLt3sqauF81okRK0/8mWbxEiXSH7e07ppwutiQjHpE8Bk5DOlTu2+UUo99ObqWmuTpS8rmeUulzA5A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\RiseTech\\Model\\Model.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
