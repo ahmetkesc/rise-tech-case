@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\RiseTech\Model\bin\Debug\net7.0\Model.deps.json
+C:\Users\ahmet\source\repos\RiseTech\Model\bin\Debug\net7.0\Model.dll
+C:\Users\ahmet\source\repos\RiseTech\Model\bin\Debug\net7.0\Model.pdb
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\Model.dll
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\Model.pdb
+C:\Users\ahmet\source\repos\RiseTech\Model\obj\Debug\net7.0\ref\Model.dll
