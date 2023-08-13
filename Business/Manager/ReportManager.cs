@@ -97,7 +97,6 @@ public class ReportManager : IReport
 
         if (!result.Success) return Result.Message<Report>(result.Message);
 
-        MessageHelper.CreateMessage("requestreport", report);
 
         return Result.Ok(report);
     }
