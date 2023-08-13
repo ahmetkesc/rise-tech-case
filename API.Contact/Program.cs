@@ -1,6 +1,6 @@
-using System;
 using Autofac.Extensions.DependencyInjection;
 using Business.Helpers;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +9,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddDbContext<RContext>(o => o.UseNpgsql(
+    builder.Configuration.GetConnectionString("rise_tech_db")
+));
 builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory())
     .ConfigureContainer(Delegates.ContainerDelegateBuilder(builder.Configuration));
 
