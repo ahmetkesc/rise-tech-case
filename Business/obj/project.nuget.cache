@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tJT+k/6u79U7gDdtRhnxc2iIZUEw2UhnyVafyd3HYm5ibjAjkrZnKuxCm4ESgm+HrwBdBU/jZUyHfIighHcgJw==",
+  "dgSpecHash": "Rd5rv/EGL/5S0qyDbBbhjW8elH033cqGS9DjjZpLcNlbUm/GqBIFIAahOO8sbFNr/qWVw6tNfXV9kR57sOY05Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\RiseTech\\Business\\Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

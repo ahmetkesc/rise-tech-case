@@ -31,3 +31,7 @@ C:\Users\ahmet\source\repos\RiseTech\API.Contact\obj\Debug\net7.0\refint\API.Con
 C:\Users\ahmet\source\repos\RiseTech\API.Contact\obj\Debug\net7.0\API.Contact.pdb
 C:\Users\ahmet\source\repos\RiseTech\API.Contact\obj\Debug\net7.0\API.Contact.genruntimeconfig.cache
 C:\Users\ahmet\source\repos\RiseTech\API.Contact\obj\Debug\net7.0\ref\API.Contact.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Contact\bin\Debug\net7.0\Autofac.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Contact\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Contact\bin\Debug\net7.0\Business.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Contact\bin\Debug\net7.0\Business.pdb

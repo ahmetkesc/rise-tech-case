@@ -31,3 +31,7 @@ C:\Users\ahmet\source\repos\RiseTech\API.Report\obj\Debug\net7.0\refint\API.Repo
 C:\Users\ahmet\source\repos\RiseTech\API.Report\obj\Debug\net7.0\API.Report.pdb
 C:\Users\ahmet\source\repos\RiseTech\API.Report\obj\Debug\net7.0\API.Report.genruntimeconfig.cache
 C:\Users\ahmet\source\repos\RiseTech\API.Report\obj\Debug\net7.0\ref\API.Report.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Report\bin\Debug\net7.0\Autofac.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Report\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Report\bin\Debug\net7.0\Business.dll
+C:\Users\ahmet\source\repos\RiseTech\API.Report\bin\Debug\net7.0\Business.pdb
