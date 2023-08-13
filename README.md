@@ -12,7 +12,7 @@ Projeyi klonlayın
   git clone https://github.com/ahmetkesc/rise-tech-case
 ```
 
-Proje için veritabanı tanımlaması yapın ya da var olanı veritabanı ismini kullanını
+Proje için veritabanı tanımlaması yapın ya da varolan veritabanı ismini kullanını
 
 ```bash
   rise_tech_db
