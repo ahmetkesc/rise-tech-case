@@ -19,6 +19,8 @@ public class Delegates
             builder
                 .RegisterType<ReportManager>().As<IReport>()
                 .InstancePerLifetimeScope();
+            builder
+                .RegisterType<RContext>().AsSelf().InstancePerLifetimeScope();
         });
 
         return _delegate;
