@@ -16,7 +16,7 @@ builder.Services.AddDbContext<RContext>(o => o.UseNpgsql(
 
 builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory())
     .ConfigureContainer(Delegates.ContainerDelegateBuilder(builder.Configuration));
-
+builder.Services.AddHostedService<QueueBackgroundService>();
 var app = builder.Build();
 
 
